@@ -1,3 +1,20 @@
-### Oiii!!  Sou Karla Souza  🔺
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karlasouzaby)](https://github.com/karlasouzaby)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/karla-souza-5116089b/)
+### Olá ! Eu sou Karla Souza ✨
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/karla-souza-5116089b/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/karlasouza6412@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)](https://github.com/karlasouzaby/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/)](https://api.whatsapp.com/send?phone=5562994336773/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KarlaSouzaGO/)
+
+
+![Karla GitHub stats](https://github-readme-stats.vercel.app/api?username=karlasouzaby&show_icons=true&theme=dracula)
+
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div></br>
+
+Apaixonada por Tecnologia
