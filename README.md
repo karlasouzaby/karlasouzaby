@@ -8,7 +8,7 @@
 
 
 ![Karla GitHub stats](https://github-readme-stats.vercel.app/api?username=karlasouzaby&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlasouzaby&layout=compact)](https://github.com/karlasouzaby/github-readme-stats)
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
