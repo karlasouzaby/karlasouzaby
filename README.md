@@ -6,8 +6,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white/)](https://api.whatsapp.com/send?phone=5562994336773/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KarlaSouzaGO/)
 
-
-![Karla GitHub stats](https://github-readme-stats.vercel.app/api?username=karlasouzaby&show_icons=true&theme=dracula
+![Karla GitHub stats](https://github-readme-stats.vercel.app/api?username=karlasouzaby&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlasouzaby&layout=compact)](https://github.com/karlasouzaby/github-readme-stats)
 ## Tecnologias que uso no meu dia a dia
